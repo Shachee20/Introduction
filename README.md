@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Shachee20/Shachee20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate college student with a strong interest in **Cybersecurity** and **Software Engineering**. I'm passionate about learning how to secure systems and also love building useful software.
 
-Here are some ideas to get you started:
+- 🎓 Pursuing Bachelor's in Computer Applications from GGSIPU.
+- 🌱 Currently learning the basics of ethical hacking, networking, and secure coding
+- 💻 Also working on improving my programming skills (Python, C++, JavaScript)
+- 🛠️ Enjoy working on small projects that help me learn more about tech
+- 🔐 Exploring platforms like TryHackMe and Hack The Box.
+- 🤝 Looking to connect with other beginners in tech and cybersecurity
+- 📫 Reach me at: [https://www.linkedin.com/in/shachee-tripathi79820/]
+- 😄 Fun fact: I love solving logic puzzles and CTF challenges in my free time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile!
