@@ -4,7 +4,7 @@ I'm a passionate college student with a strong interest in **Cybersecurity** and
 
 - 🎓 Pursuing Bachelor's in Computer Applications from GGSIPU.
 - 🌱 Currently learning the basics of ethical hacking, networking, and secure coding
-- 💻 Also working on improving my programming skills (Python, C++, JavaScript)
+- 💻 Also working on improving my programming skills (Python, C++, JavaScript, HTML5, CSS3)
 - 🛠️ Enjoy working on small projects that help me learn more about tech
 - 🔐 Exploring platforms like TryHackMe and Hack The Box.
 - 🤝 Looking to connect with other beginners in tech and cybersecurity
